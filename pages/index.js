@@ -15,6 +15,9 @@ export default function Home() {
           Hello skkim<br />
           Hello others
         </h1>
+        <h2>
+          Hello Hello Hello
+        </h2>
       </main>
     </div>
   )
